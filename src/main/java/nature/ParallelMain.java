@@ -24,9 +24,9 @@ public class ParallelMain {
         IO ea = new IO();
         //DataUtils du = new DataUtils();
         //Graph g = ea.matlabToGraph("minnesotaL.mat", "graph");
-        //Graph g = ea.matlabToGraph("meshes.mat", "smallmesh"); //random 70 unverfaltet; ist es durch Grid schlechter?
+        Graph g = ea.matlabToGraph("meshes.mat", "smallmesh");
         //Graph g = ea.readEdgeList("californiaJ.txt");
-        Graph g = ea.readEdgeList("oldenburgJ.txt");
+        //Graph g = ea.readEdgeList("oldenburgJ.txt");
 
 
 
