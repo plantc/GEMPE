@@ -53,7 +53,7 @@ public class ParallelMain {
         System.out.println("numNodes " + g.getVertexCount() + " numEdges: " + g.getEdgeCount());
 
 
-        int d = 2;
+         int d = 2;
         int numT = 2;
         Parallel gp = new Parallel(g, numT, d);
         // gp.twoDGridStart();
