@@ -6,3 +6,22 @@ Please find C++ code in the corresponding folder. This zip folder also includes 
 You find the experimental data as Matlab matrices in data.zip.
 
 The folder additionalExperiments contains more experiments and the folder pythonScripts the scripts to reproduce the representation learning experiments in the paper (https://dl.acm.org/doi/10.1145/3394486.3403174, open access).
+
+## Citation 
+
+    @inproceedings{DBLP:conf/kdd/PlantBB20,
+        author    = {Claudia Plant and
+                     Sonja Biedermann and
+                     Christian B{\"{o}}hm},
+        title     = {Data Compression as a Comprehensive Framework for Graph Drawing and
+                     Representation Learning},
+        booktitle = {{KDD} '20: The 26th {ACM} {SIGKDD} Conference on Knowledge Discovery
+                     and Data Mining, Virtual Event, CA, USA, August 23-27, 2020},
+        pages     = {1212--1222},
+        year      = {2020},
+        crossref  = {DBLP:conf/kdd/2020},
+        url       = {https://dl.acm.org/doi/10.1145/3394486.3403174},
+        timestamp = {Mon, 24 Aug 2020 14:13:33 +0200},
+        biburl    = {https://dblp.org/rec/conf/kdd/PlantBB20.bib},
+        bibsource = {dblp computer science bibliography, https://dblp.org}
+    }
